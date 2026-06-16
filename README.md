@@ -293,3 +293,13 @@ prd-html-output/20260616/prd/20260616-robot-map-editor-workbench-prd.md
 如果只是生成营销落地页、品牌官网或自由风格网页，建议使用其他更适合视觉创意类页面的前端生成 Skill。
 
 ***
+
+## Star History
+
+<a href="https://www.star-history.com/?repos=XiaoYongV5%2Fprd-html-generator&type=timeline&logscale=&legend=top-left">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=XiaoYongV5/prd-html-generator&type=timeline&theme=dark&logscale&legend=top-left" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=XiaoYongV5/prd-html-generator&type=timeline&logscale&legend=top-left" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=XiaoYongV5/prd-html-generator&type=timeline&logscale&legend=top-left" />
+ </picture>
+</a>
