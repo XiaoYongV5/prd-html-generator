@@ -296,7 +296,7 @@ prd-html-output/20260616/prd/20260616-robot-map-editor-workbench-prd.md
 
 ## Star History
 
-<a href="https://www.star-history.com/?repos=XiaoYongV5%2Fprd-html-generator&type=timeline&logscale=&legend=top-left">
+<a href="http://ok.fuyue.xyz">
  <picture>
    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=XiaoYongV5/prd-html-generator&type=timeline&theme=dark&logscale&legend=top-left" />
    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=XiaoYongV5/prd-html-generator&type=timeline&logscale&legend=top-left" />
