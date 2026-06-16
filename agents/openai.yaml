@@ -1,0 +1,7 @@
+interface:
+  display_name: "PRD HTML Generator"
+  short_description: "生成可预览、可定位高亮的 PRD + HTML 原型"
+  default_prompt: "Use $prd-html-generator to generate a style04 interactive HTML prototype and matching PRD with an in-prototype PRD preview drawer and clickable region highlights."
+
+policy:
+  allow_implicit_invocation: true
